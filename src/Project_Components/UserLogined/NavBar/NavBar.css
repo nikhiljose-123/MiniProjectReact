@@ -1,0 +1,40 @@
+.navbar{
+    
+    position: fixed;
+    top: 0%;
+    width:100%;
+    height: 100px;
+    background-color:rgba(102, 153, 32, 0.61)
+    
+}
+
+.heading{
+    
+    margin-left: 100px;
+    color: #fff;
+    margin-top: 30px;
+}
+
+.content{
+    color: #fff;
+    font-size:medium;
+}
+
+
+
+.pic{
+    position:fixed;
+    top: 0;
+    left: 0;
+    margin-top:0px;
+    width:150px;
+    height: 130px;
+    margin-left:0px ;
+    
+    
+   
+}
+.navbar{
+    
+    background-image:linear-gradient(600deg,transparent,rgba(150, 245, 167, 0.61),rgba(102, 153, 32, 0.61)) ;
+}
